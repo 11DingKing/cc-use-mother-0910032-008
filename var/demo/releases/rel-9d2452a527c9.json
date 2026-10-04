@@ -1,0 +1,32 @@
+{
+  "release_id": "rel-9d2452a527c9",
+  "scenario_id": "scn-104e46d4169a",
+  "run_id": "run-902e18bcf681",
+  "snapshot_id": "snap-2024",
+  "parameter_version_id": "param-base",
+  "result_digest": "a957bedef729bc0eaec1bc7620483758848a4a66296575dda3efef924c17f0b5",
+  "metric_summary": {
+    "enterprise_count": 10,
+    "exempt_count": 2,
+    "total_emissions": 627000.0,
+    "total_allocation": 427500.0,
+    "total_carried": 50000.0,
+    "total_gap": 149500.0,
+    "total_surplus": 0,
+    "gap_enterprise_count": 8,
+    "gap_enterprise_ratio": 0.8,
+    "gap_ratio": 0.238437,
+    "price_pressure_index": 11.92185,
+    "distribution": {
+      "豁免": 2,
+      "盈余": 0,
+      "平衡": 0,
+      "轻度缺口": 0,
+      "中度缺口": 3,
+      "重度缺口": 5
+    }
+  },
+  "published_by": "交易运营员",
+  "published_at": "2026-10-04T22:20:38+00:00",
+  "reference_only": true
+}

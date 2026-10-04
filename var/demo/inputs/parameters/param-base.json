@@ -1,0 +1,18 @@
+{
+  "version_id": "param-base",
+  "label": "基准方案",
+  "coefficients": {
+    "steel": 1.05,
+    "cement": 1.0,
+    "chemical": 1.0,
+    "power": 1.1,
+    "nonferrous": 1.0,
+    "glass": 1.0,
+    "default": 1.0
+  },
+  "adjustment_factor": 1.0,
+  "carry_ratio": 0.5,
+  "exemption_threshold": 10000,
+  "exemption_enterprise_ids": [],
+  "created_at": "2026-10-04T00:00:00+00:00"
+}

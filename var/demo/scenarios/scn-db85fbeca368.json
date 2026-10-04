@@ -1,0 +1,12 @@
+{
+  "scenario_id": "scn-db85fbeca368",
+  "name": "强化试算",
+  "snapshot_id": "snap-2024",
+  "created_by": "核算专员",
+  "created_at": "2026-10-04T22:20:38+00:00",
+  "state": "待核算",
+  "parameter_version_id": "param-strict",
+  "result_run_id": "run-be8a9ca74c42",
+  "reviewed_by": null,
+  "review_note": null
+}

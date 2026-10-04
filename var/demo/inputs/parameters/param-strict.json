@@ -1,0 +1,18 @@
+{
+  "version_id": "param-strict",
+  "label": "强化方案",
+  "coefficients": {
+    "steel": 0.945,
+    "cement": 0.9,
+    "chemical": 0.9,
+    "power": 0.99,
+    "nonferrous": 0.9,
+    "glass": 0.9,
+    "default": 0.9
+  },
+  "adjustment_factor": 1.0,
+  "carry_ratio": 0.3,
+  "exemption_threshold": 5000,
+  "exemption_enterprise_ids": [],
+  "created_at": "2026-10-04T00:00:00+00:00"
+}

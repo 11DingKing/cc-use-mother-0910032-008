@@ -1,0 +1,133 @@
+{
+  "run_id": "run-902e18bcf681",
+  "scenario_id": "scn-104e46d4169a",
+  "snapshot_id": "snap-2024",
+  "snapshot_digest": "85a0a555895e4a32bd658d296a49989da574e0090cf11801cf5b0c78c40b241f",
+  "parameter_version_id": "param-base",
+  "parameter_digest": "885c8d0db1f511730c504f7726f40e9d6cc78ae958485146545daf1c5b6f496e",
+  "metrics": {
+    "enterprise_count": 10,
+    "exempt_count": 2,
+    "total_emissions": 627000.0,
+    "total_allocation": 427500.0,
+    "total_carried": 50000.0,
+    "total_gap": 149500.0,
+    "total_surplus": 0,
+    "gap_enterprise_count": 8,
+    "gap_enterprise_ratio": 0.8,
+    "gap_ratio": 0.238437,
+    "price_pressure_index": 11.92185,
+    "distribution": {
+      "豁免": 2,
+      "盈余": 0,
+      "平衡": 0,
+      "轻度缺口": 0,
+      "中度缺口": 3,
+      "重度缺口": 5
+    }
+  },
+  "outcomes": [
+    {
+      "enterprise_id": "E001",
+      "industry": "steel",
+      "exempt": false,
+      "emissions": 120000.0,
+      "allocation": 63000.0,
+      "carried": 5000.0,
+      "gap": 52000.0,
+      "band": "重度缺口"
+    },
+    {
+      "enterprise_id": "E002",
+      "industry": "steel",
+      "exempt": false,
+      "emissions": 80000.0,
+      "allocation": 52500.0,
+      "carried": 1000.0,
+      "gap": 26500.0,
+      "band": "重度缺口"
+    },
+    {
+      "enterprise_id": "E003",
+      "industry": "cement",
+      "exempt": false,
+      "emissions": 60000.0,
+      "allocation": 40000.0,
+      "carried": 2500.0,
+      "gap": 17500.0,
+      "band": "重度缺口"
+    },
+    {
+      "enterprise_id": "E004",
+      "industry": "cement",
+      "exempt": false,
+      "emissions": 45000.0,
+      "allocation": 30000.0,
+      "carried": 0.0,
+      "gap": 15000.0,
+      "band": "重度缺口"
+    },
+    {
+      "enterprise_id": "E005",
+      "industry": "chemical",
+      "exempt": false,
+      "emissions": 30000.0,
+      "allocation": 20000.0,
+      "carried": 6000.0,
+      "gap": 4000.0,
+      "band": "中度缺口"
+    },
+    {
+      "enterprise_id": "E006",
+      "industry": "paper",
+      "exempt": true,
+      "emissions": 8000.0,
+      "allocation": 8000.0,
+      "carried": 0.0,
+      "gap": 0.0,
+      "band": "豁免"
+    },
+    {
+      "enterprise_id": "E007",
+      "industry": "power",
+      "exempt": false,
+      "emissions": 200000.0,
+      "allocation": 165000.0,
+      "carried": 15000.0,
+      "gap": 20000.0,
+      "band": "中度缺口"
+    },
+    {
+      "enterprise_id": "E008",
+      "industry": "textile",
+      "exempt": true,
+      "emissions": 9000.0,
+      "allocation": 9000.0,
+      "carried": 0.0,
+      "gap": 0.0,
+      "band": "豁免"
+    },
+    {
+      "enterprise_id": "E009",
+      "industry": "nonferrous",
+      "exempt": false,
+      "emissions": 50000.0,
+      "allocation": 25000.0,
+      "carried": 20000.0,
+      "gap": 5000.0,
+      "band": "中度缺口"
+    },
+    {
+      "enterprise_id": "E010",
+      "industry": "glass",
+      "exempt": false,
+      "emissions": 25000.0,
+      "allocation": 15000.0,
+      "carried": 500.0,
+      "gap": 9500.0,
+      "band": "重度缺口"
+    }
+  ],
+  "finished_at": "2026-10-04T22:20:38+00:00",
+  "digest": "a957bedef729bc0eaec1bc7620483758848a4a66296575dda3efef924c17f0b5"
+}

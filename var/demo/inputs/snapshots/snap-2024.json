@@ -1,0 +1,88 @@
+{
+  "snapshot_id": "snap-2024",
+  "period": "2024",
+  "source": "正式账户台账",
+  "copied_at": "2026-10-04T00:00:00+00:00",
+  "records": [
+    {
+      "enterprise_id": "E001",
+      "name": "钢一",
+      "industry": "steel",
+      "verified_emissions": 120000.0,
+      "allowance_balance": 10000.0,
+      "output": 60000.0
+    },
+    {
+      "enterprise_id": "E002",
+      "name": "钢二",
+      "industry": "steel",
+      "verified_emissions": 80000.0,
+      "allowance_balance": 2000.0,
+      "output": 50000.0
+    },
+    {
+      "enterprise_id": "E003",
+      "name": "水泥一",
+      "industry": "cement",
+      "verified_emissions": 60000.0,
+      "allowance_balance": 5000.0,
+      "output": 40000.0
+    },
+    {
+      "enterprise_id": "E004",
+      "name": "水泥二",
+      "industry": "cement",
+      "verified_emissions": 45000.0,
+      "allowance_balance": 0.0,
+      "output": 30000.0
+    },
+    {
+      "enterprise_id": "E005",
+      "name": "化工一",
+      "industry": "chemical",
+      "verified_emissions": 30000.0,
+      "allowance_balance": 12000.0,
+      "output": 20000.0
+    },
+    {
+      "enterprise_id": "E006",
+      "name": "造纸一",
+      "industry": "paper",
+      "verified_emissions": 8000.0,
+      "allowance_balance": 500.0,
+      "output": 6000.0
+    },
+    {
+      "enterprise_id": "E007",
+      "name": "电力一",
+      "industry": "power",
+      "verified_emissions": 200000.0,
+      "allowance_balance": 30000.0,
+      "output": 150000.0
+    },
+    {
+      "enterprise_id": "E008",
+      "name": "纺织一",
+      "industry": "textile",
+      "verified_emissions": 9000.0,
+      "allowance_balance": 100.0,
+      "output": 7000.0
+    },
+    {
+      "enterprise_id": "E009",
+      "name": "有色一",
+      "industry": "nonferrous",
+      "verified_emissions": 50000.0,
+      "allowance_balance": 40000.0,
+      "output": 25000.0
+    },
+    {
+      "enterprise_id": "E010",
+      "name": "玻璃一",
+      "industry": "glass",
+      "verified_emissions": 25000.0,
+      "allowance_balance": 1000.0,
+      "output": 15000.0
+    }
+  ]
+}

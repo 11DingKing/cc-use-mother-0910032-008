@@ -1,0 +1,12 @@
+{
+  "run_id": "run-34b54dd913c9",
+  "scenario_id": "scn-5ec18aa0e6ba",
+  "snapshot_id": "snap-2024",
+  "parameter_version_id": "param-strict",
+  "chunk_size": 4,
+  "total": 10,
+  "started_at": "2026-10-04T22:20:38+00:00",
+  "status": "已取消",
+  "processed": 4,
+  "finished_at": "2026-10-04T22:20:38+00:00"
+}

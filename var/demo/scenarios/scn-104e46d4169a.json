@@ -1,0 +1,12 @@
+{
+  "scenario_id": "scn-104e46d4169a",
+  "name": "基准试算",
+  "snapshot_id": "snap-2024",
+  "created_by": "核算专员",
+  "created_at": "2026-10-04T22:20:38+00:00",
+  "state": "已封存",
+  "parameter_version_id": "param-base",
+  "result_run_id": "run-902e18bcf681",
+  "reviewed_by": "监管审计员",
+  "review_note": "口径与复核单一致"
+}
